@@ -1,7 +1,7 @@
 # Hack The Box Challenge - Calculator File Reading
 
 ## Challenge Description
-HTB jscalc, your goal is to run a script in the calculator input that reads the contents of a file named `flag.txt`.##  In the mysterious depths of the digital sea, a specialized JavaScript calculator has been crafted by tech-savvy squids. With multiple arms and complex problem-solving skills, these cephalopod engineers use it for everything from inkjet trajectory calculations to deep-sea math. Attempt to outsmart it at your own risk! 🦑
+HTB jscalc, your goal is to run a script in the calculator input that reads the contents of a file named `flag.txt`. CHALLENGE DESCRIPTION: In the mysterious depths of the digital sea, a specialized JavaScript calculator has been crafted by tech-savvy squids. With multiple arms and complex problem-solving skills, these cephalopod engineers use it for everything from inkjet trajectory calculations to deep-sea math. Attempt to outsmart it at your own risk! 🦑
 
 
 ## Easy Exploit
